@@ -21,7 +21,16 @@
 ---
  ⚠️ Importante! ⚠️
 
-☕ Para la realización de este proyeco utilicé la versión 10 de Java. </br></br>
+☕ Para la realización de este proyeco utilicé la versión 10 de Java.
+ </br></br>
+
+🗒 Descripción:
+ 
+ EL proyecto contiene el JAR ejecutable y el backup de la base de datos que se puede importar en un servidor local o externo para que funcione, se le hicieron algunas modificaciones a la parte gráfica, no demasiadas, porque se hizo incapie en CRUD y MVC, Falto utilizar el comando join para realizar menos conexiones, modificación que realizare posteriormente a la presentación del mismo. También se le incluyo el código del challenge anterior para que de acuerdo a la nacionalidad del Huesped se le presente el valor de la estadía en su moneda local.
+
+ previews
+
+[![](./imagenes/preview-hotel-alura.png)]
 
 
 🧡 <strong>Mi Linkedin</strong></br>
@@ -31,3 +40,4 @@
 💙 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
